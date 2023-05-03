@@ -5,6 +5,8 @@
 <p align="center"><i>Click any game below to check it out!</i></p>
 
 
+<a href="https://github.com/aspengames/Patchwork_Beast"><img src="https://user-images.githubusercontent.com/96705270/236060340-51df2a24-87e7-4b21-87bd-743925bb6657.png" width="400" /></a> <a href="https://github.com/seanhlewis/Fishori"><img align="right" src="https://user-images.githubusercontent.com/96705270/236060329-79ff460a-bd19-4e2a-b774-a69f15e8504c.png" width="400" /></a> 
+
 <a href="https://github.com/seanhlewis/pirates-revenge"><img src="https://user-images.githubusercontent.com/96705270/183728392-131df641-7625-4016-b0fd-7798afb82001.png" width="400" /></a> <a href="https://github.com/seanhlewis/RPGWurdle"><img align="right" src="https://user-images.githubusercontent.com/96705270/183728463-8e0ac050-08ec-429e-b37c-48ca78fdf706.png" width="400" /></a> 
 
 
